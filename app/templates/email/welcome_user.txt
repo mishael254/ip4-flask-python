@@ -1,0 +1,5 @@
+Hello {{user.username}}
+
+Welcome to Blogger Application.
+Thanks for signing up to keep in touch with Blogger. We're so happy you're here.
+Feel free to drop a blog on the different categories available.
