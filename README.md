@@ -45,7 +45,7 @@ The different technologies that were used to develop this application include:
 ```
 
 ### Link to live site
-Here is a link to the live site 'https://dashboard.heroku.com/apps/mishaelblogspot'
+Here is a link to the live site 'https://mishaelblogspot.herokuapp.com/'
 
 
 ### Contact Me
